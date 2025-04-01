@@ -35,4 +35,8 @@ The original classification framework has been extended to a regression task to 
 ```bash
 git clone https://github.com/your-username/realtime_emotion_regression
 cd realtime_emotion_regression
+```
+### 3. Run the Application
+```bash
 python main.py
+```
