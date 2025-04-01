@@ -1,6 +1,6 @@
 # Realtime Micro-Expression Regression Demo
 
-This repository demonstrates a real-time regression-based facial micro-expression analyzer built upon the model proposed in our [AAAI 2025 paper](https://arxiv.org/abs/2502.09993).  
+This repository demonstrates a real-time, regression-based valence-arousal estimation system built upon the model proposed in our [AAAI 2025 paper](https://arxiv.org/abs/2502.09993).
 The original classification framework has been extended to a regression task to estimate subtle facial expression dynamics (e.g., valence, arousal, expression intensity).
 
 ---
